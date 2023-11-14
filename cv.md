@@ -1,11 +1,12 @@
 ## **Kuznetsova Valeriia (@ValeriiaKuz)**
+<img src='https://i.postimg.cc/k5L9tMf8/2023-11-14-11-35-50.jpg'  alt='2023-11-14-11-35-50' width="200" height="auto"/>
 
 #### Contacts
 
-Location: Batumi, Georgia
-Phone: +995 599 906 534 / +7 986 733 5086
-Email: lerabukareva@icloud.com
-GitHub: [ValeriiaKuz](https://github.com/ValeriiaKuz)
+Location: Batumi, Georgia <br>
+Phone: +995 599 906 534 / +7 986 733 5086 <br>
+Email: lerabukareva@icloud.com <br>
+GitHub: [ValeriiaKuz](https://github.com/ValeriiaKuz) <br>
 Codewars: [ValeriiaKuznetsova](https://www.codewars.com/users/ValeriiaKuznetsova) 
 
 #### About me 
@@ -42,20 +43,21 @@ I don't have commercial experience, but I have several personal projects
 * [  Currency conversion website
   ](https://valeriiakuz.github.io/Currency-rates/#/)
 * [ToDoList](https://valeriiakuz.github.io/ToDoList/)
-* [CafeGid](https://coffee-ride.vercel.app)
+* [CafeGuide](https://coffee-ride.vercel.app)
 
 and a project from Yandex course
 [BurgerProject](https://valeriiakuz.github.io/BurgerProject/)
 
 #### Education
 
-JavaScript для начинающих - Stepik
-Frontend React - Yandex 
-And a lot of documentation, lectures, videos 
+JavaScript для начинающих - Stepik (1 month)
+Frontend React - Yandex (about 3 months)
+And a lot of documentation, lectures, videos (all the time)
 
 #### English Language 
 
 B1-B2 (In my own perception)
-[But EF set test shows C2 
+[However, my EFset test results indicate C2 
 ](https://www.efset.org/cert/FEnWua)
 
+<img alt="certificate_71.png" height="200" src="https://cdn.efset.org/efset-widget/img/certificate_71.png" width="200"/>
